@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://root@omnia.ftp.sh:22004/../dvc/dvc_catalog
